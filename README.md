@@ -10,4 +10,6 @@ How to run the application
 5. Enter the movie name in the search bar (Black Panther, Red Sparrow, Tomb Raider or Pacific Rim)
 6. The results will be displayed on the table below.
 
-This application uses online resources to find the cheapest website to purchase a movie. For example if the movie you choose is black panther, the aplication will display the comparing sites and the cheapest site to purchase it. 
+What does this app do?
+
+This application uses online resources to find the cheapest website to purchase a movie. For example if the movie you choose is black panther, the application will display the comparing sites and the cheapest site to purchase it. 
